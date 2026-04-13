@@ -1,4 +1,4 @@
-# Duet — Personal Alignment
+# Attune — Personal Alignment
 
 **Teaching AI how to think *with* you — not just *for* you.**
 
